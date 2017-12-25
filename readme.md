@@ -2,7 +2,9 @@
 http://itpro.nikkeibp.co.jp/atcl/column/17/092800400/101500003/
 
 
-#h1 動作手順
+# 動作手順
+
 ```
-$ ruby main.rb
+$ bundle install --path vendor/bundle
+$ bundle exec ruby main.rb
 ```
