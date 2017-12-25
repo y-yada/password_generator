@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    csv (1.0.0)
+    rake (12.3.0)
+    romaji (0.2.4)
+      rake (>= 0.8.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  csv
+  romaji
+
+BUNDLED WITH
+   1.16.0
