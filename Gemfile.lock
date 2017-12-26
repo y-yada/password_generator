@@ -2,6 +2,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     csv (1.0.0)
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.1)
+      mini_portile2 (~> 2.3.0)
     rake (12.3.0)
     romaji (0.2.4)
       rake (>= 0.8.0)
@@ -11,6 +14,7 @@ PLATFORMS
 
 DEPENDENCIES
   csv
+  nokogiri
   romaji
 
 BUNDLED WITH
